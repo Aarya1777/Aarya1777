@@ -1,121 +1,96 @@
-<h1 align="center">Hey there, I'm Aarya Joshi! 👋</h1>
+<div align="center">
 
-<h3 align="center">🎓 Computer Engineering Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer</h3>
+# Aarya Joshi
 
-<p align="center">
-  Exploring Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI to build intelligent solutions.
-</p>
+### Computer Engineering Student | AI/ML & Generative AI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Python+Developer;Data+Analytics+Enthusiast;Exploring+RAG+%26+Generative+AI" alt="Typing SVG"/>
-</p>
+Building practical solutions with Python, machine learning, and language models.
 
----
+[GitHub](https://github.com/Aarya1777)
 
-## 👩‍💻 About Me
-
-* 🎓 Pursuing B.Tech in Computer Engineering at **D. Y. Patil College of Engineering, Akurdi, Pune**.
-* 📅 Expected graduation: **2029**.
-* 🤖 Passionate about Artificial Intelligence and Machine Learning.
-* 🐍 Working with Python and Flask to build applications.
-* 📊 Interested in data analysis and extracting insights from real-world datasets.
-* 🧠 Exploring Retrieval-Augmented Generation (RAG) and AI-powered document intelligence.
-* 📝 Interested in Natural Language Processing and text summarization.
-* 🚀 Love learning new technologies and building practical projects.
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,git,github,vscode" alt="Python, Flask, Git, GitHub, and VS Code"/>
-</p>
+I am a second-year B.Tech Computer Engineering student at D. Y. Patil College of Engineering, Akurdi, Pune, with an interest in artificial intelligence, machine learning, and data-driven applications.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-217346?style=for-the-badge" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/RAG-6C3483?style=for-the-badge" alt="RAG"/>
-</p>
+I enjoy working with data, exploring machine learning concepts, and developing applications that solve practical problems. My current areas of interest include natural language processing, retrieval-augmented generation (RAG), and document intelligence.
 
----
+* **Education:** B.Tech in Computer Engineering
+* **Institution:** D. Y. Patil College of Engineering, Akurdi
+* **Expected Graduation:** 2029
+* **Interests:** Artificial Intelligence, Machine Learning, NLP, Generative AI
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🌍 1. Global Air Quality Analysis
+| Category        | Technologies                                 |
+| --------------- | -------------------------------------------- |
+| Programming     | Python                                       |
+| Web Development | Flask                                        |
+| Data Analysis   | Pandas, NumPy, Matplotlib                    |
+| AI/ML           | Machine Learning fundamentals, NLP           |
+| Generative AI   | RAG, document processing, text summarization |
+| Tools           | Git, GitHub, Jupyter Notebook                |
 
-A data analysis project exploring global air quality across multiple cities using a Kaggle dataset covering approximately 150 days.
+## Selected Projects
 
-* 🌎 Analyzed air quality observations from multiple cities.
-* 📊 Explored pollution patterns and environmental trends.
-* 🔍 Used data analysis to uncover insights from real-world environmental data.
+### Global Air Quality Analysis
 
-**Technologies:** Python · Data Analysis · Kaggle Dataset
+Analyzed air quality data collected across multiple cities over approximately 150 days to explore pollution patterns, compare locations, and identify trends.
 
-### 🎓 2. Student Marks Analysis
+**Focus areas:** Data cleaning, exploratory data analysis, visualization, and interpreting environmental data.
 
-A data analysis project focused on understanding student marks and academic performance.
+**Technologies:** Python, Pandas, NumPy, Matplotlib
 
-* 📊 Analyzed student marks and performance patterns.
-* 📈 Explored marks distributions and academic trends.
-* 💡 Used data-driven analysis to better understand student performance.
+### Student Marks Analysis
 
-**Technologies:** Python · Data Analysis
+Explored student performance data to identify patterns in marks and examine performance across different subjects or categories.
 
-### 🧠 3. AI-Powered PDF Intelligence System
+**Focus areas:** Data analysis, summary statistics, data interpretation, and visualization.
 
-An AI-powered document intelligence system designed to retrieve specific information from large collections of PDF documents using Retrieval-Augmented Generation (RAG).
+**Technologies:** Python, Pandas, Matplotlib
 
-* 📄 Works toward making information accessible across hundreds of PDF documents.
-* 🔎 Retrieves relevant information based on user queries.
-* 🧠 Uses a RAG-based approach to support document-grounded question answering.
-* ⚡ Simplifies searching through large collections of documents.
+### AI Text Summarizer
 
-**Technologies:** Python · Retrieval-Augmented Generation (RAG) · Generative AI · PDF Processing
+Developing a text summarization application focused on extracting the key information from longer passages and presenting it in a concise format.
 
-### 📝 4. AI Text Summarizer
+**Focus areas:** Text processing, NLP, summarization workflows, and application development.
 
-An AI-powered text summarization application designed to transform lengthy text into concise, meaningful summaries.
+**Technologies:** Python, NLP, Flask
 
-* 📝 Condenses long text into shorter summaries.
-* 🔍 Focuses on identifying key information.
-* ⚡ Makes lengthy content easier to understand and review.
+### PDF Intelligence Using RAG
 
-**Technologies:** Python · Artificial Intelligence · Natural Language Processing
+Building a document question-answering workflow designed to retrieve relevant information from large collections of PDF files and help users locate specific details efficiently.
 
----
+**Focus areas:** PDF processing, document chunking, semantic retrieval, embeddings, and retrieval-augmented generation.
 
-## 📊 GitHub Stats
+**Technologies:** Python, RAG, NLP, vector search
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarya1777&show_icons=true&theme=tokyonight&hide_border=true" alt="Aarya's GitHub Stats"/>
-</p>
+## Areas of Interest
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya1777&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+* Machine Learning and Artificial Intelligence
+* Natural Language Processing
+* Generative AI and Large Language Models
+* Retrieval-Augmented Generation
+* Data Analysis and Visualization
+* AI-powered Applications
 
----
+## GitHub Statistics
 
-## 🎯 Current Interests
+<div align="center">
 
-* 🤖 Artificial Intelligence and Machine Learning.
-* 🧠 Generative AI and Retrieval-Augmented Generation.
-* 📊 Data Analysis and Data Visualization.
-* 🐍 Python Development and Flask Applications.
-* 🔍 Building intelligent systems that solve real-world problems.
+<img src="https://github-readme-stats.vercel.app/api?username=Aarya1777&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=64748B&text_color=475569&bg_color=FFFFFF" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya1777&layout=compact&hide_border=true&title_color=3B82F6&text_color=475569&bg_color=FFFFFF" alt="Most used programming languages" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Aarya1777">
-    <img src="https://img.shields.io/badge/GitHub-Aarya1777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-</p>
+*Learning continuously. Building thoughtfully. Improving through practice.*
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey in AI and Machine Learning.
-</p>
+</div>
