@@ -4,9 +4,17 @@
 
 ### Computer Engineering Student | AI/ML & Generative AI
 
-Building practical solutions with Python, machine learning, and language models.
+*Exploring intelligent systems, building practical applications, and learning through code.*
 
-[GitHub](https://github.com/Aarya1777)
+<a href="https://github.com/Aarya1777">
+  <img src="https://img.shields.io/badge/GitHub-Aarya1777-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-334155?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub">
+</a>
 
 </div>
 
@@ -14,76 +22,86 @@ Building practical solutions with Python, machine learning, and language models.
 
 ## About Me
 
-I am a second-year B.Tech Computer Engineering student at D. Y. Patil College of Engineering, Akurdi, Pune, with an interest in artificial intelligence, machine learning, and data-driven applications.
+I am a B.Tech Computer Engineering student at D. Y. Patil College of Engineering, Akurdi, Pune, interested in artificial intelligence, machine learning, and Generative AI.
 
-I enjoy working with data, exploring machine learning concepts, and developing applications that solve practical problems. My current areas of interest include natural language processing, retrieval-augmented generation (RAG), and document intelligence.
+I enjoy analyzing data, experimenting with language models, and developing applications that solve practical problems. My interests include natural language processing, retrieval-augmented generation, and AI-powered document analysis.
 
 * **Education:** B.Tech in Computer Engineering
-* **Institution:** D. Y. Patil College of Engineering, Akurdi
 * **Expected Graduation:** 2029
-* **Interests:** Artificial Intelligence, Machine Learning, NLP, Generative AI
+* **Focus Areas:** AI/ML, NLP, Generative AI, and Data Analysis
+* **Currently Exploring:** RAG pipelines and document intelligence
 
 ## Technical Skills
 
-| Category        | Technologies                                 |
-| --------------- | -------------------------------------------- |
-| Programming     | Python                                       |
-| Web Development | Flask                                        |
-| Data Analysis   | Pandas, NumPy, Matplotlib                    |
-| AI/ML           | Machine Learning fundamentals, NLP           |
-| Generative AI   | RAG, document processing, text summarization |
-| Tools           | Git, GitHub, Jupyter Notebook                |
+**Programming & Development**
 
-## Selected Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-374151?style=flat-square\&logo=flask\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)
+
+**Data Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Artificial Intelligence**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0F766E?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6D5BD0?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+
+## Featured Projects
 
 ### Global Air Quality Analysis
 
-Analyzed air quality data collected across multiple cities over approximately 150 days to explore pollution patterns, compare locations, and identify trends.
+Analyzed air quality data from multiple cities over approximately 150 days to explore pollution patterns, compare locations, and identify trends.
 
-**Focus areas:** Data cleaning, exploratory data analysis, visualization, and interpreting environmental data.
+**Key areas:** Data cleaning, exploratory analysis, statistical summaries, and visualization.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib
+`Python` `Pandas` `NumPy` `Matplotlib`
 
 ### Student Marks Analysis
 
-Explored student performance data to identify patterns in marks and examine performance across different subjects or categories.
+Explored student performance data to identify patterns in marks and compare results across subjects or categories.
 
-**Focus areas:** Data analysis, summary statistics, data interpretation, and visualization.
+**Key areas:** Data analysis, summary statistics, and visualization.
 
-**Technologies:** Python, Pandas, Matplotlib
+`Python` `Pandas` `Matplotlib`
 
 ### AI Text Summarizer
 
-Developing a text summarization application focused on extracting the key information from longer passages and presenting it in a concise format.
+Developing a text summarization application designed to extract important information from longer passages and present it concisely.
 
-**Focus areas:** Text processing, NLP, summarization workflows, and application development.
+**Key areas:** Text processing, NLP, and summarization workflows.
 
-**Technologies:** Python, NLP, Flask
+`Python` `NLP` `Flask`
 
 ### PDF Intelligence Using RAG
 
-Building a document question-answering workflow designed to retrieve relevant information from large collections of PDF files and help users locate specific details efficiently.
+Building a document question-answering workflow to retrieve relevant information from PDF collections and help users locate specific details efficiently.
 
-**Focus areas:** PDF processing, document chunking, semantic retrieval, embeddings, and retrieval-augmented generation.
+**Key areas:** PDF processing, text chunking, embeddings, semantic retrieval, and RAG.
 
-**Technologies:** Python, RAG, NLP, vector search
+`Python` `NLP` `RAG`
 
 ## Areas of Interest
 
-* Machine Learning and Artificial Intelligence
+* Artificial Intelligence and Machine Learning
 * Natural Language Processing
 * Generative AI and Large Language Models
 * Retrieval-Augmented Generation
 * Data Analysis and Visualization
-* AI-powered Applications
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aarya1777&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=64748B&text_color=475569&bg_color=FFFFFF" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarya1777&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=2563EB&icon_color=0F766E&text_color=334155" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya1777&layout=compact&hide_border=true&title_color=3B82F6&text_color=475569&bg_color=FFFFFF" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya1777&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=2563EB&text_color=334155" alt="Most used programming languages">
 
 </div>
 
@@ -91,6 +109,6 @@ Building a document question-answering workflow designed to retrieve relevant in
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Improving through practice.*
+**Learning continuously · Building thoughtfully · Growing through practice**
 
 </div>
